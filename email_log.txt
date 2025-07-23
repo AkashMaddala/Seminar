@@ -1,0 +1,409 @@
+
+==================================================
+EMAIL SENT: 2025-07-15 07:18:21
+To: test@example.com
+Subject: ✅ Seminar Booking Confirmed - Web Development Basics
+------------------------------
+Dear Akash Maddala,
+
+Great news! Your booking for 'Web Development Basics' has been CONFIRMED!
+
+📅 SEMINAR DETAILS:
+• Title: Web Development Basics
+• Date: Tuesday, July 15, 2025
+• Time: 10:00 AM
+• Status: CONFIRMED
+
+🔗 CANCELLATION:
+If you need to cancel, click here: http://localhost/seminar_booking/cancel_booking.php?token=test_token_123
+
+We look forward to seeing you there!
+
+Best regards,
+Seminar Booking System
+==================================================
+
+==================================================
+EMAIL SENT: 2025-07-15 08:31:12
+To: akash.maddala.am@gmail.com
+Subject: ❌ Booking Cancelled - Advanced PHP
+Status: SUCCESS
+==================================================
+
+==================================================
+EMAIL SENT: 2025-07-15 08:32:21
+To: akash.maddala.am@gmail.com
+Subject: ✅ Seminar Booking Confirmed - Web Development Basics
+Status: SUCCESS
+==================================================
+
+==================================================
+EMAIL SENT: 2025-07-15 08:32:31
+To: akash.maddala.am@gmail.com
+Subject: ❌ Booking Cancelled - Web Development Basics
+Status: SUCCESS
+==================================================
+
+==================================================
+EMAIL SENT: 2025-07-15 08:32:54
+To: akash.maddala.am@gmail.com
+Subject: ✅ Seminar Booking Confirmed - Web Development Basics
+Status: SUCCESS
+==================================================
+
+==================================================
+EMAIL SENT: 2025-07-17 01:29:30
+To: akash.maddala.am@gmail.com
+Subject: ✅ Seminar Booking Confirmed - Cybersecurity
+Status: SUCCESS
+==================================================
+
+==================================================
+EMAIL SENT: 2025-07-17 01:32:46
+To: akash.maddala.am@gmail.com
+Subject: ❌ Booking Cancelled - Cybersecurity
+Status: SUCCESS
+==================================================
+
+==================================================
+EMAIL SENT: 2025-07-17 01:38:27
+To: akash.maddala.am@gmail.com
+Subject: Seminar Booking Confirmed - Web Development Basics
+Status: SUCCESS
+==================================================
+
+==================================================
+EMAIL SENT: 2025-07-17 01:39:52
+To: maddala.akash@gmail.com
+Subject: Seminar Booking Confirmed - Web Development Basics
+Status: SUCCESS
+==================================================
+
+==================================================
+EMAIL SENT: 2025-07-17 01:42:58
+To: spacetimewarpsofficial@gmail.com
+Subject: Seminar Booking Confirmed - Web Development Basics
+Status: SUCCESS
+==================================================
+
+==================================================
+EMAIL SENT: 2025-07-17 01:48:57
+To: ervincharlotte23@gmail.com
+Subject: Waitlist Confirmation - Web Development Basics
+Status: SUCCESS
+==================================================
+
+==================================================
+EMAIL SENT: 2025-07-17 01:51:57
+To: ervincharlotte23@gmail.com
+Subject: Booking Cancelled - Web Development Basics
+Status: SUCCESS
+==================================================
+
+==================================================
+EMAIL SENT: 2025-07-17 01:54:18
+To: ervincharlotte23@gmail.com
+Subject: Seminar Booking Confirmed - Advanced PHP
+Status: SUCCESS
+==================================================
+
+==================================================
+EMAIL SENT: 2025-07-18 17:42:31
+To: akash.maddala.am@gmail.com
+Subject: Booking Cancelled - Web Development Basics
+Status: SUCCESS
+==================================================
+
+==================================================
+EMAIL SENT: 2025-07-18 20:58:13
+To: akash.maddala.am@gmail.com
+Subject: Seminar Booking Confirmed - Mobile Development
+Status: SUCCESS
+==================================================
+
+==================================================
+EMAIL SENT: 2025-07-18 21:14:20
+To: akash.maddala.am@gmail.com
+Subject: Seminar Booking Confirmed - Database Design
+Status: SUCCESS
+==================================================
+
+==================================================
+EMAIL SENT: 2025-07-18 22:43:53
+To: ramanujan@ucmo.edu
+Subject: Seminar Booking Confirmed - Digital Marketing
+Status: SUCCESS
+==================================================
+
+==================================================
+EMAIL SENT: 2025-07-18 22:52:48
+To: spacetimewarpsofficial@gmail.com
+Subject: Seminar Booking Confirmed - Digital Marketing
+Status: SUCCESS
+==================================================
+
+==================================================
+EMAIL SENT: 2025-07-18 22:53:18
+To: akash.maddala.am@gmail.com
+Subject: Waitlist Confirmation - Digital Marketing
+Status: SUCCESS
+==================================================
+
+==================================================
+EMAIL SENT: 2025-07-18 22:55:19
+To: akash.maddala.am@gmail.com
+Subject: GREAT NEWS! You're In - Digital Marketing
+Status: SUCCESS
+==================================================
+
+==================================================
+EMAIL SENT: 2025-07-18 23:00:38
+To: akash.maddala.am@gmail.com
+Subject: Booking Cancelled - Digital Marketing
+Status: SUCCESS
+==================================================
+
+==================================================
+EMAIL SENT: 2025-07-18 23:02:54
+To: akash.maddala.am@gmail.com
+Subject: Seminar Booking Confirmed - Digital Marketing
+Status: SUCCESS
+==================================================
+
+==================================================
+EMAIL SENT: 2025-07-18 23:05:24
+To: akash.maddala.am@gmail.com
+Subject: Waitlist Confirmation - Digital Marketing
+Status: SUCCESS
+==================================================
+
+==================================================
+EMAIL SENT: 2025-07-18 23:06:19
+To: akash.maddala.am@gmail.com
+Subject: GREAT NEWS! You're In - Digital Marketing
+Status: SUCCESS
+==================================================
+
+==================================================
+EMAIL SENT: 2025-07-18 23:35:28
+To: akash.maddala.am@gmail.com
+Subject: Waitlist Confirmation - Digital Marketing
+Status: SUCCESS
+==================================================
+
+==================================================
+EMAIL SENT: 2025-07-18 23:35:57
+To: akash.maddala.am@gmail.com
+Subject: GREAT NEWS! You're In - Digital Marketing
+Status: SUCCESS
+==================================================
+
+==================================================
+EMAIL SENT: 2025-07-18 23:36:36
+To: akash.maddala.am@gmail.com
+Subject: Booking Cancelled - Mobile Development
+Status: SUCCESS
+==================================================
+
+==================================================
+EMAIL SENT: 2025-07-21 05:38:03
+To: akash.maddala.am@gmail.com
+Subject: Seminar Booking Confirmed - Web Development Basics
+Status: SUCCESS
+==================================================
+
+==================================================
+EMAIL SENT: 2025-07-21 05:40:10
+To: akash.maddala.am@gmail.com
+Subject: Seminar Booking Confirmed - API Development
+Status: SUCCESS
+==================================================
+
+==================================================
+EMAIL SENT: 2025-07-21 05:42:03
+To: akash.maddala.am@gmail.com
+Subject: Booking Cancelled - Web Development Basics
+Status: SUCCESS
+==================================================
+
+==================================================
+EMAIL SENT: 2025-07-21 05:43:47
+To: spacetimewarpsofficial@gmail.com
+Subject: Seminar Booking Confirmed - API Development
+Status: SUCCESS
+==================================================
+
+==================================================
+EMAIL SENT: 2025-07-21 05:45:36
+To: maddala.akash@gmail.com
+Subject: Seminar Booking Confirmed - API Development
+Status: SUCCESS
+==================================================
+
+==================================================
+EMAIL SENT: 2025-07-21 05:46:03
+To: maddala.akash@gmail.com
+Subject: Booking Cancelled - API Development
+Status: SUCCESS
+==================================================
+
+==================================================
+EMAIL SENT: 2025-07-21 05:46:21
+To: maddala.akash@gmail.com
+Subject: Seminar Booking Confirmed - API Development
+Status: SUCCESS
+==================================================
+
+==================================================
+EMAIL SENT: 2025-07-21 05:46:39
+To: akash.maddala.am@gmail.com
+Subject: Booking Cancelled - API Development
+Status: SUCCESS
+==================================================
+
+==================================================
+EMAIL SENT: 2025-07-21 05:52:37
+To: akash.maddala.am@gmail.com
+Subject: Waitlist Confirmation - API Development
+Status: SUCCESS
+==================================================
+
+==================================================
+EMAIL SENT: 2025-07-21 05:57:07
+To: akash.maddala.am@gmail.com
+Subject: Booking Cancelled - API Development
+Status: SUCCESS
+==================================================
+
+==================================================
+EMAIL SENT: 2025-07-21 06:20:36
+To: akash.maddala.am@gmail.com
+Subject: Seminar Booking Confirmed - API Development
+Status: SUCCESS
+==================================================
+
+==================================================
+EMAIL SENT: 2025-07-21 06:21:22
+To: akash.maddala.am@gmail.com
+Subject: Seminar Booking Confirmed - Web Development Basics
+Status: SUCCESS
+==================================================
+
+==================================================
+EMAIL SENT: 2025-07-21 06:32:48
+To: akash.maddala.am@gmail.com
+Subject: Seminar Booking Confirmed - Database Design
+Status: SUCCESS
+==================================================
+
+==================================================
+EMAIL SENT: 2025-07-21 06:34:15
+To: akash.maddala.am@gmail.com
+Subject: Booking Cancelled - Database Design
+Status: SUCCESS
+==================================================
+
+==================================================
+EMAIL SENT: 2025-07-21 06:49:00
+To: akash.maddala.am@gmail.com
+Subject: Seminar Booking Confirmed - PHP Advanced Topics
+Status: SUCCESS
+==================================================
+
+==================================================
+EMAIL SENT: 2025-07-21 18:47:16
+To: akash.maddala.am@gmail.com
+Subject: Seminar Booking Confirmed - Database Design
+Status: SUCCESS
+==================================================
+
+==================================================
+EMAIL SENT: 2025-07-21 19:51:28
+To: akash.maddala.am@gmail.com
+Subject: Seminar Booking Confirmed - New Seminar
+Status: SUCCESS
+==================================================
+
+==================================================
+EMAIL SENT: 2025-07-21 19:51:54
+To: maddala.akash@gmail.com
+Subject: Seminar Booking Confirmed - New Seminar
+Status: SUCCESS
+==================================================
+
+==================================================
+EMAIL SENT: 2025-07-21 19:56:15
+To: akash.maddala.am@gmail.com
+Subject: Seminar Booking Confirmed - Brand New Seminar
+Status: SUCCESS
+==================================================
+
+==================================================
+EMAIL SENT: 2025-07-21 19:56:26
+To: akash.maddala.am@gmail.com
+Subject: Booking Cancelled - Brand New Seminar
+Status: SUCCESS
+==================================================
+
+==================================================
+EMAIL SENT: 2025-07-21 19:56:45
+To: akash.maddala.am@gmail.com
+Subject: Seminar Booking Confirmed - Brand New Seminar
+Status: SUCCESS
+==================================================
+
+==================================================
+EMAIL SENT: 2025-07-21 20:56:20
+To: akash.maddala.am@gmail.com
+Subject: Booking Cancelled - PHP Advanced Topics
+Status: SUCCESS
+==================================================
+
+==================================================
+EMAIL SENT: 2025-07-21 21:09:32
+To: akash.maddala.am@gmail.com
+Subject: Seminar Booking Confirmed - PHP Advanced Topics
+Status: SUCCESS
+==================================================
+
+==================================================
+EMAIL SENT: 2025-07-21 21:10:07
+To: akash.maddala.am@gmail.com
+Subject: Booking Cancelled - Database Design
+Status: SUCCESS
+==================================================
+
+==================================================
+EMAIL SENT: 2025-07-21 21:10:11
+To: akash.maddala.am@gmail.com
+Subject: Booking Cancelled - New Seminar
+Status: SUCCESS
+==================================================
+
+==================================================
+EMAIL SENT: 2025-07-21 21:11:16
+To: akash.maddala.am@gmail.com
+Subject: Seminar Booking Confirmed - New Seminar
+Status: SUCCESS
+==================================================
+
+==================================================
+EMAIL SENT: 2025-07-21 21:54:51
+To: akash.maddala.am@gmail.com
+Subject: Seminar Booking Confirmed - Test Seminar
+Status: SUCCESS
+==================================================
+
+==================================================
+EMAIL SENT: 2025-07-23 19:58:55
+To: akash.maddala.am@gmail.com
+Subject: Booking Cancelled - New Seminar
+Status: SUCCESS
+==================================================
+
+==================================================
+EMAIL SENT: 2025-07-23 19:59:12
+To: akash.maddala.am@gmail.com
+Subject: Booking Cancelled - Brand New Seminar
+Status: SUCCESS
+==================================================
